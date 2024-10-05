@@ -1,0 +1,4 @@
+.venv
+.venv/*
+scratchpad.ipynb
+__pycache__/
